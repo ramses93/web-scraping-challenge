@@ -1,6 +1,6 @@
 # Web Scraping Homework - Mission to Mars
 
-## Task 1 - Scraping
+## Overview
 
 Perfomed nitial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
