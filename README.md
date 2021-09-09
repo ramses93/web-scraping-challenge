@@ -21,3 +21,7 @@ A table was scrapped from https://space-facts.com/mars/. The table is shown belo
 | 6 | Surface Temperature: | -87 to -5 ºC |
 | 7 | First Record: | 2nd millenium BC |
 | 8 | Recorded By: | Egyptian astronomers |
+
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
