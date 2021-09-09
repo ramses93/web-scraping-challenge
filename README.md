@@ -23,6 +23,15 @@ A table was scrapped from https://space-facts.com/mars/. The table is shown belo
 | 7 | First Record: | 2nd millenium BC |
 | 8 | Recorded By: | Egyptian astronomers |
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+### Mars Hemispheres
+The URL for the images of Mars Hemispheres was scrapped and added into a list of dictionaries. Each dictionary has two fields which are 'title' and 'img_url'. The list of dictionaries can be seen below
+
+
+[{'title': 'Cerberus Hemisphere Enhanced',
+  'img_url': 'https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/cerberus_enhanced.tif/full.jpg'},
+ {'title': 'Schiaparelli Hemisphere Enhanced',
+  'img_url': 'https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/schiaparelli_enhanced.tif/full.jpg'},
+ {'title': 'Syrtis Major Hemisphere Enhanced',
+  'img_url': 'https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/syrtis_major_enhanced.tif/full.jpg'},
+ {'title': 'Valles Marineris Hemisphere Enhanced',
+  'img_url': 'https://astropedia.astrogeology.usgs.gov/download/Mars/Viking/valles_marineris_enhanced.tif/full.jpg'}]
