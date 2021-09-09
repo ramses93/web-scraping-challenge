@@ -12,6 +12,7 @@ NOTE: This section was not added because the NASA's JPL Images Website does not 
 A table was scrapped from https://space-facts.com/mars/. The table is shown below:
 
 | No.  | Parameter | Value |
+| :---: | :---: | :---: |
 | 0 | Equatorial Diameter: | 6,792 km  |
 | 1 | Polar Diameter: | 6,752 km |
 | 2 | Mass: | 6.39x10^23 kg(0.11 Earths) |
